@@ -28,3 +28,4 @@ C:\Users\sakar\Documents\Projects\PrayerTimeApp\obj\Debug\net8.0\refint\PrayerTi
 C:\Users\sakar\Documents\Projects\PrayerTimeApp\obj\Debug\net8.0\PrayerTimeApp.pdb
 C:\Users\sakar\Documents\Projects\PrayerTimeApp\obj\Debug\net8.0\PrayerTimeApp.genruntimeconfig.cache
 C:\Users\sakar\Documents\Projects\PrayerTimeApp\obj\Debug\net8.0\ref\PrayerTimeApp.dll
+C:\Users\sakar\Documents\Projects\PrayerTimeApp\obj\Debug\net8.0\PrayerTimeApp.sourcelink.json

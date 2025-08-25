@@ -7,12 +7,32 @@
       "RelativeMoniker": "D:0:0:{85FAA1B1-7908-40D6-BC25-812F7F0FBAA7}|PrayerTimeApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85FAA1B1-7908-40D6-BC25-812F7F0FBAA7}|PrayerTimeApp.csproj|c:\\users\\sakar\\documents\\projects\\prayertimeapp\\prayertimesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85FAA1B1-7908-40D6-BC25-812F7F0FBAA7}|PrayerTimeApp.csproj|solutionrelative:prayertimesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85FAA1B1-7908-40D6-BC25-812F7F0FBAA7}|PrayerTimeApp.csproj|c:\\users\\sakar\\documents\\projects\\prayertimeapp\\apidata\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FAA1B1-7908-40D6-BC25-812F7F0FBAA7}|PrayerTimeApp.csproj|solutionrelative:apidata\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FAA1B1-7908-40D6-BC25-812F7F0FBAA7}|PrayerTimeApp.csproj|c:\\users\\sakar\\documents\\projects\\prayertimeapp\\apidata\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FAA1B1-7908-40D6-BC25-812F7F0FBAA7}|PrayerTimeApp.csproj|solutionrelative:apidata\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85FAA1B1-7908-40D6-BC25-812F7F0FBAA7}|PrayerTimeApp.csproj|c:\\users\\sakar\\documents\\projects\\prayertimeapp\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85FAA1B1-7908-40D6-BC25-812F7F0FBAA7}|PrayerTimeApp.csproj|solutionrelative:apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FAA1B1-7908-40D6-BC25-812F7F0FBAA7}|PrayerTimeApp.csproj|c:\\users\\sakar\\documents\\projects\\prayertimeapp\\apidata\\timings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FAA1B1-7908-40D6-BC25-812F7F0FBAA7}|PrayerTimeApp.csproj|solutionrelative:apidata\\timings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FAA1B1-7908-40D6-BC25-812F7F0FBAA7}|PrayerTimeApp.csproj|c:\\users\\sakar\\documents\\projects\\prayertimeapp\\apidata\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FAA1B1-7908-40D6-BC25-812F7F0FBAA7}|PrayerTimeApp.csproj|solutionrelative:apidata\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FAA1B1-7908-40D6-BC25-812F7F0FBAA7}|PrayerTimeApp.csproj|c:\\users\\sakar\\documents\\projects\\prayertimeapp\\prayertimesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FAA1B1-7908-40D6-BC25-812F7F0FBAA7}|PrayerTimeApp.csproj|solutionrelative:prayertimesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FAA1B1-7908-40D6-BC25-812F7F0FBAA7}|PrayerTimeApp.csproj|c:\\users\\sakar\\documents\\projects\\prayertimeapp\\prayertimeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85FAA1B1-7908-40D6-BC25-812F7F0FBAA7}|PrayerTimeApp.csproj|solutionrelative:prayertimeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,20 +42,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sakar\\Documents\\Projects\\PrayerTimeApp\\Apidata\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Apidata\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\sakar\\Documents\\Projects\\PrayerTimeApp\\Apidata\\ApiResponse.cs",
+              "RelativeToolTip": "Apidata\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T19:27:45.202Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Date.cs",
+              "DocumentMoniker": "C:\\Users\\sakar\\Documents\\Projects\\PrayerTimeApp\\Apidata\\Date.cs",
+              "RelativeDocumentMoniker": "Apidata\\Date.cs",
+              "ToolTip": "C:\\Users\\sakar\\Documents\\Projects\\PrayerTimeApp\\Apidata\\Date.cs",
+              "RelativeToolTip": "Apidata\\Date.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:28:46.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "timings.cs",
+              "DocumentMoniker": "C:\\Users\\sakar\\Documents\\Projects\\PrayerTimeApp\\Apidata\\timings.cs",
+              "RelativeDocumentMoniker": "Apidata\\timings.cs",
+              "ToolTip": "C:\\Users\\sakar\\Documents\\Projects\\PrayerTimeApp\\Apidata\\timings.cs",
+              "RelativeToolTip": "Apidata\\timings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:26:16.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\sakar\\Documents\\Projects\\PrayerTimeApp\\Apidata\\Data.cs",
+              "RelativeDocumentMoniker": "Apidata\\Data.cs",
+              "ToolTip": "C:\\Users\\sakar\\Documents\\Projects\\PrayerTimeApp\\Apidata\\Data.cs",
+              "RelativeToolTip": "Apidata\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:25:17.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrayerTimeApp.csproj",
+              "DocumentMoniker": "C:\\Users\\sakar\\Documents\\Projects\\PrayerTimeApp\\PrayerTimeApp.csproj",
+              "RelativeDocumentMoniker": "PrayerTimeApp.csproj",
+              "ToolTip": "C:\\Users\\sakar\\Documents\\Projects\\PrayerTimeApp\\PrayerTimeApp.csproj",
+              "RelativeToolTip": "PrayerTimeApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T18:22:45.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PrayerTimesService.cs",
               "DocumentMoniker": "C:\\Users\\sakar\\Documents\\Projects\\PrayerTimeApp\\PrayerTimesService.cs",
               "RelativeDocumentMoniker": "PrayerTimesService.cs",
               "ToolTip": "C:\\Users\\sakar\\Documents\\Projects\\PrayerTimeApp\\PrayerTimesService.cs",
               "RelativeToolTip": "PrayerTimesService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA1wAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T18:49:17.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T18:49:17.133Z"
             },
             {
               "$type": "Document",
@@ -45,23 +124,22 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\sakar\\Documents\\Projects\\PrayerTimeApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAzwBgAAAA9AAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCMAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-12T18:38:00.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ApiHelper.cs",
               "DocumentMoniker": "C:\\Users\\sakar\\Documents\\Projects\\PrayerTimeApp\\ApiHelper.cs",
               "RelativeDocumentMoniker": "ApiHelper.cs",
               "ToolTip": "C:\\Users\\sakar\\Documents\\Projects\\PrayerTimeApp\\ApiHelper.cs",
               "RelativeToolTip": "ApiHelper.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAA1wBQAAAAFAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T18:35:41.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T18:35:41.627Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrayerTimeApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef63aeab4b791fbf48717f6eb0e08cff9bb7c131")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrayerTimeApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrayerTimeApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

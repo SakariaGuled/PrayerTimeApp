@@ -1,4 +1,8 @@
-﻿namespace PrayerTimeApp
+﻿using Microsoft.AspNetCore.Identity;
+using PrayerTimeApp.Apidata;
+using System.Text.Json;
+
+namespace PrayerTimeApp
 {
     public class ApiHelper
     {
@@ -15,7 +19,9 @@
             public async Task<string> GetDataAsync(string url)
             {
                 var response = await _client.GetAsync(url);
+             
                 response.EnsureSuccessStatusCode();
+                
                 return await response.Content.ReadAsStringAsync();
             }
      }
